@@ -4,6 +4,10 @@
 Created on Thu Sep 26 15:45:10 2019
 
 @author: drb
+
+Update to blackjack.py file -- Blackjack game with removed bugs. 
+Next step is to add split functionality
+
 """
 import random as rand
 
